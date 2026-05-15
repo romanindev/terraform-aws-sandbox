@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-cjs
+.env
+.env.local
+
+.DS_Store
+
+.idea/
+
+apps/api/dist
+apps/web/dist
+
+coverage
