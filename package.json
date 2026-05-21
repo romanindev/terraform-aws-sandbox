@@ -1,0 +1,20 @@
+{
+  "name": "terraform-aws-sandbox",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Production-like full-stack sandbox for learning Terraform, AWS, Docker, CI/CD, and cloud deployment practices.",
+  "license": "MIT",
+  "scripts": {
+    "dev": "echo \"Day 1 will add workspace dev scripts\"",
+    "build": "echo \"Day 1 will add workspace build scripts\"",
+    "test": "echo \"Day 1 will add workspace test scripts\"",
+    "lint": "echo \"Day 1 will add workspace lint scripts\"",
+    "typecheck": "echo \"Day 1 will add workspace typecheck scripts\"",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "latest"
+  },
+  "packageManager": "pnpm@10.0.0"
+}
